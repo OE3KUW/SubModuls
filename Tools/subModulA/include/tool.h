@@ -6,19 +6,19 @@
 #ifndef GUARD_TOOL
 #define GUARD_TOOL
 
-#ifdef __cplusplus
-extern "C"
-{
-#endif
+//#ifdef __cplusplus
+//extern "C"
+//{
+//#endif
 
 /// @brief 
 /// @param  
 /// @return 
 int toolFunc(void); 
 
-#ifdef __cplusplus
-}
-#endif
+//#ifdef __cplusplus
+//}
+//#endif
 
 
 #endif  // GUARD_TOOL

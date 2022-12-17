@@ -8,6 +8,6 @@
 int toolFunc(void)
 {
     DDRB = 0xff; 
-    PORTB = 0x0; 
+    PORTB = 0xff; 
     return 0;
 }
