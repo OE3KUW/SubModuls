@@ -1,7 +1,17 @@
+/******************************************************************
+                     S u b m o d u l s 
+        Many thanx 2 Gerald Wiesböck and Jan Riederer
+                                                    қuran nov 2022
+******************************************************************/
 #include <Arduino.h>
 
-void setup() {
-  // put your setup code here, to run once:
+#include <tool.h>
+#include "proj.h"
+
+void setup() 
+{
+    int x = projFunc();
+    int y = toolFunc();
 }
 
 void loop() {
