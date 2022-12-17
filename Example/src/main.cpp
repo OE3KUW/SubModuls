@@ -12,7 +12,6 @@ void setup()
 {
     projFunc();
     toolFunc(); 
-    //int y = toolFunc();
 }
 
 void loop() 

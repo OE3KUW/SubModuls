@@ -11,6 +11,9 @@ extern "C"
 {
 #endif
 
+/// @brief 
+/// @param  
+/// @return 
 int toolFunc(void); 
 
 #ifdef __cplusplus
