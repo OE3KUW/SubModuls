@@ -10,8 +10,9 @@
 
 void setup() 
 {
-    int x = projFunc();
-    int y = toolFunc();
+    projFunc();
+    toolFunc(); 
+    //int y = toolFunc();
 }
 
 void loop() 
